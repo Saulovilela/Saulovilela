@@ -27,6 +27,11 @@
 <br>
 
 ###
+🤓 **▸ My scientific articles:**
+
+<p align="left">
+<a href="https://medium.com/https://medium.com/@saulovilelabarbosa/escrita-de-cen%c3%a1rio-de-teste-usando-bdd-d2e98055e44f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@saulovilelabarbosa/escrita-de-cen%c3%a1rio-de-teste-usando-bdd-d2e98055e44f" height="30" width="40" /></a>
+</p>
 
 
 🤓 **▸ Your daily dev inspiration:**
@@ -38,6 +43,7 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-vilela-barbosa-531902130/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saulo.vilela/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-179828?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5511984548257)
+  
   
  
 
