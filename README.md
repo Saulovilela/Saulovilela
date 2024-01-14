@@ -30,7 +30,7 @@
 🤓 **▸ My scientific articles:**
 
 <p align="left">
-<a href="https://medium.com/https://medium.com/@saulovilelabarbosa/escrita-de-cen%c3%a1rio-de-teste-usando-bdd-d2e98055e44f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@saulovilelabarbosa/escrita-de-cen%c3%a1rio-de-teste-usando-bdd-d2e98055e44f" height="30" width="40" /></a>
+<a href="https://medium.com/@saulovilelabarbosa/escrita-de-cen%c3%a1rio-de-teste-usando-bdd-d2e98055e44f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@saulovilelabarbosa/escrita-de-cen%c3%a1rio-de-teste-usando-bdd-d2e98055e44f" height="30" width="40" /></a>
 </p>
 
 
