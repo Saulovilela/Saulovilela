@@ -34,7 +34,7 @@
 </p>
 <br>
 <p align="left">
-<a href="https://medium.com/@saulovilelabarbosa/escrita-de-cen%c3%a1rio-de-teste-usando-bdd-d2e98055e44f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@saulovilelabarbosa/corridas-c%C3%B3digos-e-desafios-le-mans-e-os-testes-de-resist%C3%AAncia-e-performance-d18b9e8976fb" height="30" width="40" /></a> Corridas, Codigos e desafios: Le mans e os testes de resistência e performance
+<a href="https://medium.com/@saulovilelabarbosa/corridas-c%C3%B3digos-e-desafios-le-mans-e-os-testes-de-resist%C3%AAncia-e-performance-d18b9e8976fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@saulovilelabarbosa/corridas-c%C3%B3digos-e-desafios-le-mans-e-os-testes-de-resist%C3%AAncia-e-performance-d18b9e8976fb" height="30" width="40" /></a> Corridas, Codigos e desafios: Le mans e os testes de resistência e performance
 
 
 
