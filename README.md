@@ -27,10 +27,40 @@
 
 <br>
 
-<i class="devicon-javascript-plain colored"></i>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Ícones</title>
+    <!-- Link para incluir os ícones da Devicon -->
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <style>
+        /* Estilo para modificar o tamanho dos ícones de fonte */
+        .icon-large {
+            font-size: 50px;
+        }
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-          
+        /* Estilo para ajustar o tamanho das imagens SVG */
+        .svg-large {
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemplo de Ícones com Devicon</h1>
+
+    <!-- Usando ícone de fonte -->
+    <h2>Ícone de Fonte (Devicon)</h2>
+    <i class="devicon-javascript-plain colored icon-large"></i>
+    <!-- Ícone JavaScript com tamanho ajustado via CSS -->
+
+    <hr>
+
+    <!-- Usando imagem SVG -->
+    <h2>
+
           
           
 ###
