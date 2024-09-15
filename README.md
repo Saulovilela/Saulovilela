@@ -16,6 +16,21 @@
 🔗 • https://github.com/Andreyrvs
 -->
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="40" alt="cypress logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" height="40" alt="js logo"/>
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" height="40" alt="js logo"/>
+</div>
+
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=✌️+Hi+there.+My+name+is+Saulo,+and+i+am+a+Quality+Assurance)
 
 | ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saulovilela&layout=compact&theme=radical&hide_border=True&line_height=20&PAT_1) | ![Saulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saulovilela&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
