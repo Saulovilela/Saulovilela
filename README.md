@@ -28,6 +28,9 @@
 <br>
 
 <i class="devicon-javascript-plain colored"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+          
           
           
 ###
