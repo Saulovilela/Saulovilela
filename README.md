@@ -14,8 +14,6 @@
 🔗 • https://github.com/juletopi/juletopi
 🔗 • https://github.com/DarkBear0121
 🔗 • https://github.com/Andreyrvs
- <link rel="folha de estilo" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
--->
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=✌️+Hi+there.+My+name+is+Saulo,+and+i+am+a+Quality+Assurance)
@@ -26,40 +24,6 @@
 | ![Trophies](https://github-profile-trophy.vercel.app/?username=Saulovilela&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=Saulovilela&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
 
 <br>
-
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exemplo de Ícones</title>
-    <!-- Link para incluir os ícones da Devicon -->
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-    <style>
-        /* Estilo para modificar o tamanho dos ícones de fonte */
-        .icon-large {
-            font-size: 50px;
-        }
-
-        /* Estilo para ajustar o tamanho das imagens SVG */
-        .svg-large {
-            width: 100px;
-            height: 100px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Exemplo de Ícones com Devicon</h1>
-
-    <!-- Usando ícone de fonte -->
-    <h2>Ícone de Fonte (Devicon)</h2>
-    <i class="devicon-javascript-plain colored icon-large"></i>
-    <!-- Ícone JavaScript com tamanho ajustado via CSS -->
-
-    <hr>
-
-    <!-- Usando imagem SVG -->
-    <h2>
 
           
           
