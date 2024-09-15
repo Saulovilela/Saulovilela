@@ -14,6 +14,7 @@
 🔗 • https://github.com/juletopi/juletopi
 🔗 • https://github.com/DarkBear0121
 🔗 • https://github.com/Andreyrvs
+ <link rel="folha de estilo" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 -->
 
 
