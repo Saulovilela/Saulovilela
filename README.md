@@ -25,7 +25,14 @@
 | ![Trophies](https://github-profile-trophy.vercel.app/?username=Saulovilela&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=Saulovilela&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
 
 <br>
+###
+🤓 **▸ Languages and Frameworks:**
 
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 ###
 🤓 **▸ My scientific articles:**
 
