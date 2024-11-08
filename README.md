@@ -37,6 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"  height="40" alt="cucumber logo"/>
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/374049/robotframework.svg"  height="40" alt="robot framework logo"/>
 </div>
   
 </p>
