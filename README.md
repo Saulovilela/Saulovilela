@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/user-attachments/assets/2f24aa10-b36c-434a-ac03-df603ef9580a)![image](https://github.com/user-attachments/assets/510e7a4b-70f7-4c39-8398-b130161091c1)<!--
 ❗ ➤ References used in this Repository:
 🔗 • https://github.com/kyechan99/capsule-render
 🔗 • https://github.com/antonkomarev/github-profile-views-counter
@@ -33,11 +33,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="40" alt="playwright logo"/>
   <img width="12" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" height="40" alt="rspec logo"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"  height="40" alt="cucumber logo"/>
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374049/robotframework.svg"  height="40" alt="robot framework logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" height="40" alt="rspec logo"/>
+  <img width="12" />
+  <img src="https://www.mailslurp.com/assets/brands/capybara.png" height="40" alt="robot framework logo"/>
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/autoit-icon-512x512-wjq9l3eq.png" height="40" alt="robot framework logo"/>
 </div>
   
 </p>
