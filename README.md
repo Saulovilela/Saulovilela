@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2f24aa10-b36c-434a-ac03-df603ef9580a)![image](https://github.com/user-attachments/assets/510e7a4b-70f7-4c39-8398-b130161091c1)<!--
+<!--
 ❗ ➤ References used in this Repository:
 🔗 • https://github.com/kyechan99/capsule-render
 🔗 • https://github.com/antonkomarev/github-profile-views-counter
