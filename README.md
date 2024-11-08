@@ -39,9 +39,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" height="40" alt="rspec logo"/>
   <img width="12" />
-  <img src="https://www.mailslurp.com/assets/brands/capybara.png" height="40" alt="robot framework logo"/>
+  <img src="https://www.mailslurp.com/assets/brands/capybara.png" height="40" alt="capybara logo"/>
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/autoit-icon-512x512-wjq9l3eq.png" height="40" alt="robot framework logo"/>
+  <img src="https://static-00.iconduck.com/assets.00/autoit-icon-512x512-wjq9l3eq.png" height="40" alt="autoit logo"/>
 </div>
   
 </p>
@@ -60,6 +60,9 @@
   <img width="12" />       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
   <img width="12" /> 
+  <img src="https://www.svgrepo.com/show/374049/robotframework.svg"  height="40" alt="robot framework logo"/>
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/autoit-icon-512x512-wjq9l3eq.png" height="40" alt="autoit logo"/>
 </div>
   
 </p>
