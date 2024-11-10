@@ -22,7 +22,7 @@
 |---|---|
 
 <br>
-🤓 **▸ My Frameworks:**
+🤓 **▸ My Frameworks :**
 <p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" height="40" alt="cypress logo"/>
@@ -44,7 +44,7 @@
   
 </p>
 <br>
-🤓 **▸ My Languages:**
+🤓 **▸ My Languages :**
 <br>
 <p>
 <div align="left">
