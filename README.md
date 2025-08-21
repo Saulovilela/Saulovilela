@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" height="40" alt="rspec logo"/>
   <img width="12" />
   <img src="https://www.mailslurp.com/assets/brands/capybara.png" height="40" alt="capybara logo"/>
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*4BtYAXdjXMl7pwmd.png" height="40" alt="appium logo"/>
 </div>
   
 </p>
