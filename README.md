@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://www.mailslurp.com/assets/brands/capybara.png" height="40" alt="capybara logo"/>
   <img width="12" />
-  <img src="[https://miro.medium.com/v2/resize:fit:4800/format:webp/0*4BtYAXdjXMl7pwmd.png](https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png)" height="40" alt="appium logo"/>
+  <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" height="40" alt="appium logo"/>
 </div>
   
 </p>
